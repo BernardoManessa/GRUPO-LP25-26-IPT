@@ -1,1 +1,6 @@
-print("Hello world! Meu nome é Bernardo.")
+a = input("Digite o primeiro valor: ")
+b = input("Digite o segundo valor: ")
+c = a + b
+print(c)
+#teste 
+
