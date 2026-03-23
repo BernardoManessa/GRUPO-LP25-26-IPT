@@ -1,6 +1,6 @@
-a = input("Digite o primeiro valor: ")
-b = input("Digite o segundo valor: ")
-c = a + b
-print(c)
-#teste 
-
+idade = int(input("sua idade"))
+altura = int (input("sua altura"))
+if (idade>=18 and altura>=173):
+    print("Aprovado")
+else:
+    print("reprovado")
